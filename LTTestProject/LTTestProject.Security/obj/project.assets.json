@@ -8176,11 +8176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Security\\LTTestProject.Security.csproj",
+      "projectUniqueName": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Security\\LTTestProject.Security.csproj",
       "projectName": "LTTestProject.Security",
-      "projectPath": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Security\\LTTestProject.Security.csproj",
+      "projectPath": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Security\\LTTestProject.Security.csproj",
       "packagesPath": "C:\\Users\\Jhomel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Security\\obj\\",
+      "outputPath": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Security\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8202,8 +8202,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.DataAccess\\LTTestProject.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.DataAccess\\LTTestProject.DataAccess.csproj"
+            "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.DataAccess\\LTTestProject.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.DataAccess\\LTTestProject.DataAccess.csproj"
             }
           }
         }

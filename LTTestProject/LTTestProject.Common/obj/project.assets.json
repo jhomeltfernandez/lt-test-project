@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Common\\LTTestProject.Common.csproj",
+      "projectUniqueName": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Common\\LTTestProject.Common.csproj",
       "projectName": "LTTestProject.Common",
-      "projectPath": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Common\\LTTestProject.Common.csproj",
+      "projectPath": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Common\\LTTestProject.Common.csproj",
       "packagesPath": "C:\\Users\\Jhomel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Common\\obj\\",
+      "outputPath": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

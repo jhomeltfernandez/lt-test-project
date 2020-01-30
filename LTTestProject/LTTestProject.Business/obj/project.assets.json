@@ -8104,11 +8104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Business\\LTTestProject.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Business\\LTTestProject.Business.csproj",
       "projectName": "LTTestProject.Business",
-      "projectPath": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Business\\LTTestProject.Business.csproj",
+      "projectPath": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Business\\LTTestProject.Business.csproj",
       "packagesPath": "C:\\Users\\Jhomel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Business\\obj\\",
+      "outputPath": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8130,14 +8130,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Common\\LTTestProject.Common.csproj": {
-              "projectPath": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Common\\LTTestProject.Common.csproj"
+            "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Common\\LTTestProject.Common.csproj": {
+              "projectPath": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Common\\LTTestProject.Common.csproj"
             },
-            "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.DataAccess\\LTTestProject.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.DataAccess\\LTTestProject.DataAccess.csproj"
+            "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.DataAccess\\LTTestProject.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.DataAccess\\LTTestProject.DataAccess.csproj"
             },
-            "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Models\\LTTestProject.Models.csproj": {
-              "projectPath": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Models\\LTTestProject.Models.csproj"
+            "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Models\\LTTestProject.Models.csproj": {
+              "projectPath": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Models\\LTTestProject.Models.csproj"
             }
           }
         }

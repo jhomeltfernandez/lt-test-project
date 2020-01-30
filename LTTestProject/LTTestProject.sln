@@ -3,17 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTTestProject.API", "LTTestProject.API\LTTestProject.API.csproj", "{C9E4D3E4-1245-4506-BC30-BA353B15A0FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LTTestProject.API", "LTTestProject.API\LTTestProject.API.csproj", "{C9E4D3E4-1245-4506-BC30-BA353B15A0FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTTestProject.Business", "LTTestProject.Business\LTTestProject.Business.csproj", "{D07A1663-C06B-46B7-974B-94B4E7EDDB29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LTTestProject.Business", "LTTestProject.Business\LTTestProject.Business.csproj", "{D07A1663-C06B-46B7-974B-94B4E7EDDB29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTTestProject.Common", "LTTestProject.Common\LTTestProject.Common.csproj", "{8A847FAE-D104-4AF7-8E2C-6D74E824B911}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LTTestProject.Common", "LTTestProject.Common\LTTestProject.Common.csproj", "{8A847FAE-D104-4AF7-8E2C-6D74E824B911}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTTestProject.DataAccess", "LTTestProject.DataAccess\LTTestProject.DataAccess.csproj", "{FAF78934-812D-4E80-8BE1-255AC3B264D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LTTestProject.DataAccess", "LTTestProject.DataAccess\LTTestProject.DataAccess.csproj", "{FAF78934-812D-4E80-8BE1-255AC3B264D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTTestProject.Models", "LTTestProject.Models\LTTestProject.Models.csproj", "{141035B0-D5D9-4886-B2B4-AC2473136331}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTTestProject.Security", "LTTestProject.Security\LTTestProject.Security.csproj", "{5C304D3D-04ED-4696-B20E-E6C915B63884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LTTestProject.Models", "LTTestProject.Models\LTTestProject.Models.csproj", "{141035B0-D5D9-4886-B2B4-AC2473136331}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{5A7A8246-5CF2-4D32-B453-98446B1EEEC7}"
 	ProjectSection(SolutionItems) = preProject
@@ -46,10 +44,6 @@ Global
 		{141035B0-D5D9-4886-B2B4-AC2473136331}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{141035B0-D5D9-4886-B2B4-AC2473136331}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{141035B0-D5D9-4886-B2B4-AC2473136331}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5C304D3D-04ED-4696-B20E-E6C915B63884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5C304D3D-04ED-4696-B20E-E6C915B63884}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5C304D3D-04ED-4696-B20E-E6C915B63884}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5C304D3D-04ED-4696-B20E-E6C915B63884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

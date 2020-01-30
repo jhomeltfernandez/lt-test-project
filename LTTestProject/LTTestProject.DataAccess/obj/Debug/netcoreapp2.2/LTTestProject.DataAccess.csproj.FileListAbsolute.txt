@@ -12,3 +12,17 @@ C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.DataAccess\obj\Debug\ne
 C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.DataAccess\obj\Debug\netcoreapp2.2\LTTestProject.DataAccess.csproj.CopyComplete
 C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.DataAccess\obj\Debug\netcoreapp2.2\LTTestProject.DataAccess.dll
 C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.DataAccess\obj\Debug\netcoreapp2.2\LTTestProject.DataAccess.pdb
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\bin\Debug\netcoreapp2.2\LTTestProject.DataAccess.deps.json
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\bin\Debug\netcoreapp2.2\LTTestProject.DataAccess.runtimeconfig.json
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\bin\Debug\netcoreapp2.2\LTTestProject.DataAccess.runtimeconfig.dev.json
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\bin\Debug\netcoreapp2.2\LTTestProject.DataAccess.dll
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\bin\Debug\netcoreapp2.2\LTTestProject.DataAccess.pdb
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\bin\Debug\netcoreapp2.2\LTTestProject.Models.dll
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\bin\Debug\netcoreapp2.2\LTTestProject.Models.pdb
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\obj\Debug\netcoreapp2.2\LTTestProject.DataAccess.csprojAssemblyReference.cache
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\obj\Debug\netcoreapp2.2\LTTestProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\obj\Debug\netcoreapp2.2\LTTestProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\obj\Debug\netcoreapp2.2\LTTestProject.DataAccess.AssemblyInfo.cs
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\obj\Debug\netcoreapp2.2\LTTestProject.DataAccess.csproj.CopyComplete
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\obj\Debug\netcoreapp2.2\LTTestProject.DataAccess.dll
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.DataAccess\obj\Debug\netcoreapp2.2\LTTestProject.DataAccess.pdb

@@ -6,3 +6,12 @@ C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Models\obj\Debug\netcor
 C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Models\obj\Debug\netcoreapp2.2\LTTestProject.Models.AssemblyInfo.cs
 C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Models\obj\Debug\netcoreapp2.2\LTTestProject.Models.dll
 C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Models\obj\Debug\netcoreapp2.2\LTTestProject.Models.pdb
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.Models\bin\Debug\netcoreapp2.2\LTTestProject.Models.deps.json
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.Models\bin\Debug\netcoreapp2.2\LTTestProject.Models.dll
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.Models\bin\Debug\netcoreapp2.2\LTTestProject.Models.pdb
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.Models\obj\Debug\netcoreapp2.2\LTTestProject.Models.csprojAssemblyReference.cache
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.Models\obj\Debug\netcoreapp2.2\LTTestProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.Models\obj\Debug\netcoreapp2.2\LTTestProject.Models.AssemblyInfoInputs.cache
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.Models\obj\Debug\netcoreapp2.2\LTTestProject.Models.AssemblyInfo.cs
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.Models\obj\Debug\netcoreapp2.2\LTTestProject.Models.dll
+C:\Users\Jhomel\Documents\lt-test-project\LTTestProject\LTTestProject.Models\obj\Debug\netcoreapp2.2\LTTestProject.Models.pdb

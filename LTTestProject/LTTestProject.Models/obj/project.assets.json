@@ -1904,11 +1904,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Models\\LTTestProject.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Models\\LTTestProject.Models.csproj",
       "projectName": "LTTestProject.Models",
-      "projectPath": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Models\\LTTestProject.Models.csproj",
+      "projectPath": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Models\\LTTestProject.Models.csproj",
       "packagesPath": "C:\\Users\\Jhomel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhomel\\source\\repos\\LTTestProject\\LTTestProject.Models\\obj\\",
+      "outputPath": "C:\\Users\\Jhomel\\Documents\\lt-test-project\\LTTestProject\\LTTestProject.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
