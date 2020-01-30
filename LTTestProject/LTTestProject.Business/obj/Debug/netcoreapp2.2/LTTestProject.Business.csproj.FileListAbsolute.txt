@@ -1,0 +1,16 @@
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\bin\Debug\netcoreapp2.2\LTTestProject.Business.deps.json
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\bin\Debug\netcoreapp2.2\LTTestProject.Business.dll
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\bin\Debug\netcoreapp2.2\LTTestProject.Business.pdb
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\bin\Debug\netcoreapp2.2\LTTestProject.Common.dll
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\bin\Debug\netcoreapp2.2\LTTestProject.DataAccess.dll
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\bin\Debug\netcoreapp2.2\LTTestProject.Models.dll
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\bin\Debug\netcoreapp2.2\LTTestProject.Common.pdb
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\bin\Debug\netcoreapp2.2\LTTestProject.DataAccess.pdb
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\bin\Debug\netcoreapp2.2\LTTestProject.Models.pdb
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\obj\Debug\netcoreapp2.2\LTTestProject.Business.csprojAssemblyReference.cache
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\obj\Debug\netcoreapp2.2\LTTestProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\obj\Debug\netcoreapp2.2\LTTestProject.Business.AssemblyInfoInputs.cache
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\obj\Debug\netcoreapp2.2\LTTestProject.Business.AssemblyInfo.cs
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\obj\Debug\netcoreapp2.2\LTTestProject.Business.csproj.CopyComplete
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\obj\Debug\netcoreapp2.2\LTTestProject.Business.dll
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Business\obj\Debug\netcoreapp2.2\LTTestProject.Business.pdb

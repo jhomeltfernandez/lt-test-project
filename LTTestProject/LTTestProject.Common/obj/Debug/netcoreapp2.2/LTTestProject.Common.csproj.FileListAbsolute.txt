@@ -1,0 +1,8 @@
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Common\bin\Debug\netcoreapp2.2\LTTestProject.Common.deps.json
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Common\bin\Debug\netcoreapp2.2\LTTestProject.Common.dll
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Common\bin\Debug\netcoreapp2.2\LTTestProject.Common.pdb
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Common\obj\Debug\netcoreapp2.2\LTTestProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Common\obj\Debug\netcoreapp2.2\LTTestProject.Common.AssemblyInfoInputs.cache
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Common\obj\Debug\netcoreapp2.2\LTTestProject.Common.AssemblyInfo.cs
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Common\obj\Debug\netcoreapp2.2\LTTestProject.Common.dll
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Common\obj\Debug\netcoreapp2.2\LTTestProject.Common.pdb

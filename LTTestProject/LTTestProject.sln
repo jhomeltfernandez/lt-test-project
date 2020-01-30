@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTTestProject.API", "LTTestProject.API\LTTestProject.API.csproj", "{C9E4D3E4-1245-4506-BC30-BA353B15A0FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTTestProject.Business", "LTTestProject.Business\LTTestProject.Business.csproj", "{D07A1663-C06B-46B7-974B-94B4E7EDDB29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTTestProject.Common", "LTTestProject.Common\LTTestProject.Common.csproj", "{8A847FAE-D104-4AF7-8E2C-6D74E824B911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTTestProject.DataAccess", "LTTestProject.DataAccess\LTTestProject.DataAccess.csproj", "{FAF78934-812D-4E80-8BE1-255AC3B264D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTTestProject.Models", "LTTestProject.Models\LTTestProject.Models.csproj", "{141035B0-D5D9-4886-B2B4-AC2473136331}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTTestProject.Security", "LTTestProject.Security\LTTestProject.Security.csproj", "{5C304D3D-04ED-4696-B20E-E6C915B63884}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{5A7A8246-5CF2-4D32-B453-98446B1EEEC7}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Documentation.pdf = ..\..\..\Downloads\Documentation.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E4D3E4-1245-4506-BC30-BA353B15A0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E4D3E4-1245-4506-BC30-BA353B15A0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E4D3E4-1245-4506-BC30-BA353B15A0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E4D3E4-1245-4506-BC30-BA353B15A0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07A1663-C06B-46B7-974B-94B4E7EDDB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07A1663-C06B-46B7-974B-94B4E7EDDB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07A1663-C06B-46B7-974B-94B4E7EDDB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07A1663-C06B-46B7-974B-94B4E7EDDB29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A847FAE-D104-4AF7-8E2C-6D74E824B911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A847FAE-D104-4AF7-8E2C-6D74E824B911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A847FAE-D104-4AF7-8E2C-6D74E824B911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A847FAE-D104-4AF7-8E2C-6D74E824B911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF78934-812D-4E80-8BE1-255AC3B264D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF78934-812D-4E80-8BE1-255AC3B264D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF78934-812D-4E80-8BE1-255AC3B264D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF78934-812D-4E80-8BE1-255AC3B264D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141035B0-D5D9-4886-B2B4-AC2473136331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141035B0-D5D9-4886-B2B4-AC2473136331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141035B0-D5D9-4886-B2B4-AC2473136331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141035B0-D5D9-4886-B2B4-AC2473136331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C304D3D-04ED-4696-B20E-E6C915B63884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C304D3D-04ED-4696-B20E-E6C915B63884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C304D3D-04ED-4696-B20E-E6C915B63884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C304D3D-04ED-4696-B20E-E6C915B63884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2F1685F-C309-41A1-8436-BA6E21F0FDF4}
+	EndGlobalSection
+EndGlobal

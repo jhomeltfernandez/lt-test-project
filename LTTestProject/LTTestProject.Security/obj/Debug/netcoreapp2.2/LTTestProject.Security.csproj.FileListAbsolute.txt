@@ -1,0 +1,14 @@
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\bin\Debug\netcoreapp2.2\LTTestProject.Security.deps.json
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\bin\Debug\netcoreapp2.2\LTTestProject.Security.dll
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\bin\Debug\netcoreapp2.2\LTTestProject.Security.pdb
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\bin\Debug\netcoreapp2.2\LTTestProject.DataAccess.dll
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\bin\Debug\netcoreapp2.2\LTTestProject.Models.dll
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\bin\Debug\netcoreapp2.2\LTTestProject.DataAccess.pdb
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\bin\Debug\netcoreapp2.2\LTTestProject.Models.pdb
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\obj\Debug\netcoreapp2.2\LTTestProject.Security.csprojAssemblyReference.cache
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\obj\Debug\netcoreapp2.2\LTTestProject.Security.csproj.CoreCompileInputs.cache
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\obj\Debug\netcoreapp2.2\LTTestProject.Security.AssemblyInfoInputs.cache
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\obj\Debug\netcoreapp2.2\LTTestProject.Security.AssemblyInfo.cs
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\obj\Debug\netcoreapp2.2\LTTestProject.Security.csproj.CopyComplete
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\obj\Debug\netcoreapp2.2\LTTestProject.Security.dll
+C:\Users\Jhomel\source\repos\LTTestProject\LTTestProject.Security\obj\Debug\netcoreapp2.2\LTTestProject.Security.pdb
